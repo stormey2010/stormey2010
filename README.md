@@ -1,16 +1,13 @@
-## Hi there 👋
+![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
 
-<!--
-**stormey2010/stormey2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student who lives in the United States. I'm learning how to code. I love making and designing webpages with HTML and CSS (and possible JavaScript in the future).  It's fun to code something that anyone on the web can easily see. I also enjoy programming in C++ and Python because they challenge me more. I love it when I can finally solve a difficult problem.
 
-Here are some ideas to get you started:
+For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning HTML, CSS, Python, and C++.
+- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 😀 I like to crochet, code, read, and draw in my free time.
+- 💬 Ask me about fountain pens.
+- ⚡ Fun fact: My first line of code was not "Hello World!"
+
+[![Stormey's Github Stats](https://github-readme-stats.vercel.app/api?username=stormey2010)](https://github.com/stormey2010/github-readme-stats)
